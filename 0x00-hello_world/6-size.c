@@ -1,4 +1,5 @@
 #include <stdio.h>
+gcc 6-size.c -m32 -o size32 2> /tmp/32
 /**
  * main - Entry point
  *
